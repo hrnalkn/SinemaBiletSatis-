@@ -1,0 +1,9 @@
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\bin\Debug\SinemaBiletSatışOdevi.exe.config
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\bin\Debug\SinemaBiletSatışOdevi.exe
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\bin\Debug\SinemaBiletSatışOdevi.pdb
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\obj\Debug\SinemaBiletSatis.csprojAssemblyReference.cache
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\obj\Debug\SinemaBiletSatışOdevi.Form1.resources
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\obj\Debug\SinemaBiletSatışOdevi.Properties.Resources.resources
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\obj\Debug\SinemaBiletSatışOdevi.exe
+C:\Users\harun\Desktop\SinemaBiletSatışOdevi\SinemaBiletSatışOdevi\obj\Debug\SinemaBiletSatışOdevi.pdb
