@@ -1,2 +1,2 @@
 # SinemaBiletSatis-
-Sinema bileti satış Otomasyonu- Harun Alkan 2019 \n Windows Form Application
+Sinema bileti satış Otomasyonu (Windows Form Application)- Harun Alkan 2019 
